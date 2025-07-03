@@ -10,7 +10,7 @@ const ProductDetails = lazy(() => import("../pages/ProductDetails"));
 const UserSettings = lazy(() => import("../pages/UserSettings"));
 const Cart = lazy(() => import("../pages/Cart"));
 const UnAuth = lazy(() => import("./UnAuth"));
-const Auth = lazy(() => import("./auth"));
+const Auth = lazy(() => import("./Auth"));
 const CreateProduct = lazy(() => import("../pages/CreateProduct"));
 
 
