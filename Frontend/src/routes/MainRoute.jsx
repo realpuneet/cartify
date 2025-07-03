@@ -1,4 +1,4 @@
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router";
 import { lazy } from "react";
 
 const Product = lazy(() => import("../pages/Product"));
